@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m pursuing AWS 12x, currently [AWS 3x](https://www.youracclaim.com/users/vahiwe/badges)
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 
-[![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=vahiwe&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+[![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=vahiwe&count_private=true&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
