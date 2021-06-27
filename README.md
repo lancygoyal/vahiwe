@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working with [Afriex](https://www.afriexapp.com/)
-- 🌱 I’m pursuing AWS 12x, currently [AWS 3x](https://www.youracclaim.com/users/vahiwe/badges)
+- 🌱 I’m pursuing AWS 12x, currently [AWS 4x](https://www.youracclaim.com/users/vahiwe/badges)
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 
 
