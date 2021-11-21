@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working with [Afriex](https://www.afriexapp.com/)
-- 🌱 I’m pursuing AWS 12x, currently [AWS 5x](https://www.credly.com/users/vahiwe)
+- 🌱 I’m pursuing AWS 12x, currently [AWS 6x](https://www.credly.com/users/vahiwe)
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 - 📫 How to reach me: [@vahiwe1](https://twitter.com/vahiwe1)
 
