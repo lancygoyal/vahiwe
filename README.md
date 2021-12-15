@@ -5,7 +5,7 @@
 [![github](https://img.shields.io/github/followers/vahiwe?logo=github&style=plastic)](https://github.com/vahiwe?tab=followers)
 
 
-- 🔭 I’m currently working with [Afriex](https://www.afriexapp.com/)
+- 🔭 Automation, Cloud Architecture and DevOps.
 - 🌱 I’m pursuing AWS 12x, currently [AWS 6x](https://www.credly.com/users/vahiwe)
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 - 📫 How to reach me: [@vahiwe1](https://twitter.com/vahiwe1)
