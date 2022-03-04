@@ -6,6 +6,7 @@
 
 
 - 🔭 Automation, Cloud Architecture and DevOps.
+- 💭 AWS Community Builder
 - 🌱 I’m pursuing AWS 11x, currently [AWS 9x](https://www.credly.com/users/vahiwe)
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 - 📫 How to reach me: [@vahiwe1](https://twitter.com/vahiwe1)
