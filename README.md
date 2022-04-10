@@ -13,9 +13,9 @@
 
 **Profiles:**
 
-[<img height="30" src="img/linkedin.svg">](https://www.linkedin.com/in/vahiwe)
-[<img height="30" src="img/twitter.svg">](https://twitter.com/vahiwe1)
-[<img height="30" src="img/medium.svg">](https://medium.com/@vahiwe)
+[![LinkedIn](/img/linkedin.svg#gh-light-mode-only)](https://www.linkedin.com/in/vahiwe)
+[![Twitter](/img/twitter.svg#gh-light-mode-only)](https://twitter.com/vahiwe1)
+[![Medium](/img/medium.svg#gh-light-mode-only)](https://medium.com/@vahiwe)
 
 **Languages and Tools:**  
 
