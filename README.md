@@ -11,6 +11,12 @@
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 - 📫 How to reach me: [@vahiwe1](https://twitter.com/vahiwe1)
 
+**Profiles:**
+
+[<img height="30" src="img/linkedin.png">](https://www.linkedin.com/in/vahiwe)
+[<img height="30" src="img/twitter.png">](https://twitter.com/vahiwe1)
+[<img height="30" src="img/medium.png">](https://medium.com/@vahiwe)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
