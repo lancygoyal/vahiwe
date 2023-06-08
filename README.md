@@ -32,7 +32,7 @@
 
 [![Vahiwe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vahiwe&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
-[![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=vahiwe&count_private=true&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+[![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=vahiwe&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
 [![Vahiwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vahiwe&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
