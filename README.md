@@ -6,7 +6,7 @@
 
 - 🔭 Automation, Cloud Architecture and DevOps.
 - 💭 AWS Community Builder
-- 🌱 I’m pursuing AWS 12x, currently [AWS 11x](https://www.credly.com/users/vahiwe)
+- 🌱 I’m [AWS 12x](https://www.credly.com/users/vahiwe) certified
 - ⚙︎  Certified Kubernetes Administrator, Certified Kubernetes Application Developer [CKA(D)](https://www.credly.com/users/vahiwe)
 - 🤔 [Technical Writer](https://medium.com/@vahiwe)
 - 📫 How to reach me: [@vahiwe1](https://twitter.com/vahiwe1)
